@@ -1,0 +1,7 @@
+platform :ios, '10.0'
+
+use_frameworks!
+
+target 'Contacts' do
+  pod 'SVPullToRefresh', '~> 0.4'
+end
